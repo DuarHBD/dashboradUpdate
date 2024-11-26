@@ -167,7 +167,7 @@ function App() {
               } 
             />
 
-            {/* Part Routes - Updated with exact paths */}
+            {/* Part outes - Updated with exact paths */}
             <Route 
               path="/table/:partname" 
               element={
